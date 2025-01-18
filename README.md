@@ -12,3 +12,9 @@ Nombre del archivo: Matriz_Calc.c
 Fecha de realización: 13/01/25 -> 15/01/25
 
 Simple calculadora de matrices, donde se crea dos matrices, de igual dimensiones, el usuario selecciona con que valores rellenar las matrices, ademas, el usuario puede seleccionar que operacion realizar, suma, resta o multiplicacion
+# Analizador de texto
+Nombre del archivo: Text.c
+
+Fecha de realización: 17/01/25 -> ????
+
+Programa donde acepta un texto .txt ingresado por el usuario, donde se cuenta la cantidad de caracteres, lineas y palabras.
