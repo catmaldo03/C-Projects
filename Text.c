@@ -20,13 +20,18 @@ void analize_text(FILE *text)
 {
     int line = 0, characters = 0, words = 0;
     char caracter;
-    bool inside_word = false;
+    bool inside_word = false, new_line = false;
     while ((caracter = fgetc(text)) != EOF)
     {
         if (caracter == '\n')
         {
             line++;
             characters--;
+            new_line = true;
+        }
+        else
+        {
+            new_line = false;
         }
         if (caracter == ' ' || caracter == '\t' || caracter == '\n')
         {
@@ -43,6 +48,8 @@ void analize_text(FILE *text)
     }
     if (inside_word)
         words++;
+    if (!new_line)
+        line++;
 
     printf("\nLineas: %d\nPalabras: %d\nCaracteres: %d\n", line, words, characters);
 }
