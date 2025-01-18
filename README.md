@@ -15,6 +15,6 @@ Simple calculadora de matrices, donde se crea dos matrices, de igual dimensiones
 # Analizador de texto
 Nombre del archivo: Text.c
 
-Fecha de realización: 17/01/25 -> ????
+Fecha de realización: 17/01/25 -> 18/01/25
 
 Programa donde acepta un texto .txt ingresado por el usuario, donde se cuenta la cantidad de caracteres, lineas y palabras.
