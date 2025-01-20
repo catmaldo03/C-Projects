@@ -18,3 +18,9 @@ Nombre del archivo: Text.c
 Fecha de realización: 17/01/25 -> 18/01/25
 
 Programa donde acepta un texto .txt ingresado por el usuario, donde se cuenta la cantidad de caracteres, lineas y palabras.
+# Arreglos Dinamicos
+Nombre del archivo: dynamic_arrays.c
+
+Fecha de realización: 18/01/25 -> 19/01/25
+
+Programa que crea arreglos dinamicos, seleccionado por el usuario, lo rellena con distintos numeros, segun lo que decida el usuario, y despues puede ver el arreglo, agregar mas elementos al arreglo, eliminar un numero especifico o buscar un numero especifico.
