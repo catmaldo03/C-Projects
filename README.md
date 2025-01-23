@@ -24,3 +24,9 @@ Nombre del archivo: dynamic_arrays.c
 Fecha de realización: 18/01/25 -> 19/01/25
 
 Programa que crea arreglos dinamicos, seleccionado por el usuario, lo rellena con distintos numeros, segun lo que decida el usuario, y despues puede ver el arreglo, agregar mas elementos al arreglo, eliminar un numero especifico o buscar un numero especifico.
+# Concatenar textos
+Nombre del archivo: concatenated.c
+
+Fecha de realización: 22/01/25
+
+Permite concatenar dos strings ingresadas por el usuario, sin ocupar la funcion strcat().
