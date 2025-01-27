@@ -30,3 +30,9 @@ Nombre del archivo: concatenated.c
 Fecha de realización: 22/01/25
 
 Permite concatenar dos strings ingresadas por el usuario, sin ocupar la funcion strcat().
+# Suma y Evaluacion de Polinomios
+Nombre del archivo: polynomials.c
+
+Fecha de realización: 25/01/25 -> 26/01/25
+
+Genera dos polinomios aleatorios, en este caso de segundo grado, los suma, y despues se puede evaluar el polimonio sumado, con un valor cualquiera de x, ingresado por el usuario.
